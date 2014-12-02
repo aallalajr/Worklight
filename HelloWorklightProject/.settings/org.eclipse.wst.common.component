@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="HelloWorklightProject">
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/common"/>
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/ipad"/>
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/android"/>
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/windowsphone8"/>
+        <wb-resource deploy-path="/" source-path="/apps/HelloWorklight/iphone"/>
+        <property name="context-root" value="HelloWorklightProject"/>
+    </wb-module>
+</project-modules>
